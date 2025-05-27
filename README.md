@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full-Stack Developer | AI Enthusiast | Techpreneur<br>I'm a self-taught developer currently at Moringa School, building AI-powered apps, automation tools, and scalable web platforms. My goal? Code. Innovate. Monetize. Repeat.<br><br>🔥 What I’m Working On<br>🚀 AI-Powered Job Application Platform – AI resumes, cover letters & job matching<br>📑 Faceless Blog – Monetizing niche content with 100% free tools<br>🏥 Hospital Management System – Streamlining medical workflows
+🚀 Full-Stack Developer | AI Enthusiast | Techpreneur<br>I'm a self-taught developer currently at Moringa School, building AI-powered apps, automation tools, and scalable web platforms. My goal? Code. Innovate. Monetize. Repeat.<br><br>🔥 What I’m Working On<br>🚀 AI-Powered Job Application Platform – AI resumes, cover letters & job matching<br>📑 Faceless Blog – Monetizing niche content with 100% free tools<br>
 
 
 ## 🌐 Socials:
