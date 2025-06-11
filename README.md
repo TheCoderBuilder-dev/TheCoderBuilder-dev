@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Brian Munene Mwirigi</h1>
-<h3 align="center">Full Stack Dev in the Making | Builder of Real Things | Code Poet 🎯</h3>
+<h3 align="center">Full Stack Dev in the Making | Builder of Real Things | Code Poet </h3>
 
 ---
 
@@ -9,10 +9,10 @@
 
 ---
 
-### 🚀 About Me
+### 📍 About Me
 
 Hey! I’m Brian — a **developer-in-the-making** on a mission to turn code into impact.  
-Currently sharpening my blade with **Python, SQL, and CLI tools** at Moringa School, and soon diving into a **BSc. Computer Science** at Strathmore.  
+Currently sharpening my blade with **Python, SQL, and CLI tools** , and soon diving into a **BSc. Computer Science**.  
 Whether it's backend magic or frontend finesse, I’m all about creating smooth, scalable solutions.
 
 > Clean code? Love it.  
@@ -37,7 +37,7 @@ Whether it's backend magic or frontend finesse, I’m all about creating smooth,
 - 📈 Mix tech + business + lifestyle into a growth rocketship  
 - 🎤 One day… be the dev that inspires the next gen of builders
 
-> “Code is poetry, and I’m writing bars every day.” — Me 😂
+> “Code is poetry, and I’m writing bars every day.” — Me 
 
 ---
 
