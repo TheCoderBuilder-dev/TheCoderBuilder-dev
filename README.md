@@ -1,53 +1,86 @@
-# 💫 About Me:
-Hey, I’m **Brian Munene Mwirigi** 👋  
-I'm a Full Stack Developer in the making — currently leveling up at Moringa School, and soon diving deep into **Computer Science**. I love building stuff that solves real problems — from the backend all the way to the user experience. Clean code, powerful tools, and simple solutions? That’s my language.  
+<h1 align="center">Hey there 👋 I'm Brian Munene Mwirigi</h1>
+<h3 align="center">Full Stack Dev in the Making | Builder of Real Things | Code Poet 🎯</h3>
 
-## 🚀 What I'm About
-🌍 Coding my way to global impact  
-🧠 Currently focused on: **Python, SQL, Flask, and CLI apps**  
-💼 Learning full stack tech: **HTML, CSS, JavaScript, React, Django**  
-🛠️ Tools I vibe with: **Git, VS Code, PostgreSQL, SQLAlchemy, Figma**  
-🧪 Always building, breaking, learning, and shipping  
+---
 
-## 🎯 Goals
-🏗️ Build projects that matter (and ship ‘em, not just leave them in `/dev`)  
-💸 Become a millionaire (grind never stops)  
-📈 Tech + business + lifestyle learner — always leveling up  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
+
+---
+
+### 🚀 About Me
+
+Heya! I’m Brian — a **developer-in-the-making** on a mission to turn code into impact.  
+Currently sharpening my blade with **Python, SQL, and CLI tools** at Moringa School, and soon diving into a **BSc. Computer Science** at Strathmore.  
+Whether it's backend magic or frontend finesse, I’m all about creating smooth, scalable solutions.
+
+> Clean code? Love it.  
+> Real-world projects? Even better.  
+> Ship it, break it, rebuild stronger? Always.
+
+---
+
+### 💡 What I'm Cooking Up
+
+- 🧠 Learning right now: `Python`, `SQL`, `Flask`, `CLI Applications`
+- 💼 Leveling up with: `HTML`, `CSS`, `JavaScript`, `React`, `Django`
+- 🛠️ Tools I vibe with: `Git`, `VS Code`, `PostgreSQL`, `SQLAlchemy`, `Figma`
+- 🧪 Always: **Building. Breaking. Learning. Shipping.**
+
+---
+
+### 🎯 Goals
+
+- ✅ Build & ship real projects that solve real problems  
+- 💸 Become a millionaire before 22 (grind don’t stop, never did)  
+- 📈 Mix tech + business + lifestyle into a growth rocketship  
+- 🎤 One day… be the dev that inspires the next gen of builders
 
 > “Code is poetry, and I’m writing bars every day.” — Me 😂
 
-Let’s build something cool — or break it and build it better 🚧🔥
+---
+
+### 📊 My Dev Toolbox
+
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+#### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA1F27?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/briani_nesh)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-munene-890993346)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brianinesh@gmail.com)
+### 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/@briani_nesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/briani_nesh)
+[![LinkedIn](https://img.shields.io/badge/Brian_Munene-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-munene-890993346)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianinesh@gmail.com)
 
 ---
 
-## 💻 Tech Stack:
-<!-- Feel free to remove/add icons based on what you ACTUALLY use -->
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheCoderBuilder-dev&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoderBuilder-dev&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderBuilder-dev&layout=compact&theme=radical" width="48%" />
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheCoderBuilder-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheCoderBuilder-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderBuilder-dev&theme=dark&hide_border=false&layout=compact)
+### 🔥 Fun Stuff
 
----
-
-[![](https://visitcount.itsvg.in/api?id=TheCoderBuilder-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+```bash
+> dev@brian:~$ fortune of the day
+“Ship it like it’s hot. Fix it like a boss. Repeat.”
