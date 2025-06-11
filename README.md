@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-Heya! I’m Brian — a **developer-in-the-making** on a mission to turn code into impact.  
+Hey! I’m Brian — a **developer-in-the-making** on a mission to turn code into impact.  
 Currently sharpening my blade with **Python, SQL, and CLI tools** at Moringa School, and soon diving into a **BSc. Computer Science** at Strathmore.  
 Whether it's backend magic or frontend finesse, I’m all about creating smooth, scalable solutions.
 
